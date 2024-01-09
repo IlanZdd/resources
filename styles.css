@@ -34,6 +34,19 @@
   background-color: red
 }
 
+dimensioneImmagini {
+  height: 25%,
+  width: 50%
+}
+#dimensioneImmagini {
+  height: 25%,
+  width: 50%
+}
+.dimensioneImmagini {
+  height: 25%,
+  width: 50%
+}
+
 /*
 
 .button {
